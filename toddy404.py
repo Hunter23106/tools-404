@@ -61,7 +61,7 @@ print ("\033[92mBem Vindo\033[0m")
 opcao = int(input(" SUA ESCOLHA E : "))
 
 if opcao == 1:
-    os.system("git clone https://github.com/Tuhinshubhra/RED_HA>
+    os.system("git clone https://github.com/Tuhinshubhra/RED_HANK")
 elif opcao == 2:
     os.system("git clone --depth 1 https://github.com/sqlmappro>
 elif opcao == 3:
