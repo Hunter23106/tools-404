@@ -63,7 +63,7 @@ opcao = int(input(" SUA ESCOLHA E : "))
 if opcao == 1:
     os.system("git clone https://github.com/Tuhinshubhra/RED_HANK")
 elif opcao == 2:
-    os.system("git clone --depth 1 https://github.com/sqlmappro>
+    os.system("git clone --depth 1 https://github.com/sqlmappro")
 elif opcao == 3:
     os.system("apt install php")
 if opcao == 4:
