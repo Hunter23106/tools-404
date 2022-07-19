@@ -76,3 +76,7 @@ if opcao == 7:
    os.system("apt install python2")
 elif opcao == 8:
    os.systsm("apt install python3")
+
+else:
+    print ("essa opção não existe")
+    os.system("python3 toddy.py")
